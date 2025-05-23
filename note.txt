@@ -1,0 +1,33 @@
+1. Coba cek apakah bisa set foto kalo di mobile sama di web... @style.css
+    - Problem di 
+        - Home page
+        - Gambar Terima kasih
+2. LOGO nya ganti :)
+3. Tanyain sumbangan online nya di enable apa engga...
+
+### NEW FEATURE ###
+4. Update database ucapan selamat, bisa aja di custom aja sih wwkwkw, gk perlu live dari DB
+
+
+
+(Live check bisa pake "Live Server") extension on VS Code
+--- LIVE CHECK di BROWSER ---
+FOTO yg perlu di ganti :
+- Main Photo, cari vertical....
+
+(Click Buka Undangan....)
+- Scaling rotasi foto di pas in dulu....
+
+
+## Section Wedding Event ##
+- Icon "JAM"nya agak ktinggian, mungkin bisa dikecilin....
+- 3 Foto udah pas sih, bisa adjust dikit aja....
+
+## Our Moment ##
+ -> AMAN
+
+## Terima Kasih ##
+- FOTO nya Cari yg Vertical ajaa, atau dirubah cropping nya biar tengah dulu dan zoom out.. ?
+
+## FOOTER ##
+- Agak ketinggian, mungkin bisa dikurangin...
