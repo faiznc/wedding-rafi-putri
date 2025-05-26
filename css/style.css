@@ -1029,7 +1029,7 @@ body {
   display: flex;
   align-items: center;
   /* background-image: url(../images/popup.JPG); */
-  background-image: url(../images-sequential/main/thankyou/thanksHorizontal.png);
+  background-image: url(../images-sequential/main/thankyou/ThankYouCPPCPW.jpeg);
   background-size: cover;
   background-position: center;
   position: relative;
@@ -1089,9 +1089,9 @@ body {
 
 /* footer */
 footer {
-  padding: 1.7rem 0;
+  /* padding: 0.5rem 0; */
   text-align: center;
-  margin-top: 5rem;
+  margin-top: 0.5rem;
 }
 
 footer .logo {
