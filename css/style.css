@@ -94,14 +94,14 @@ body {
 }
 
 .popup-content h1 {
-  font-size: 5em;
+  font-size: 7em;
   font-weight: 700;
-  color: var(--bg);
+  color: rgba(0, 0, 80, 0.7);
   text-shadow: 1px 1px 3px rgba(58, 79, 71, 0.8);
   text-transform: uppercase;
   font-family: analogue, Sans-Serif;
-  margin-bottom: 3rem;
-  letter-spacing: 1px;
+  margin-bottom: 2rem;
+  letter-spacing: 2px;
 }
 .popup-content h1 span {
   color: var(--warning);
@@ -110,7 +110,7 @@ body {
 /* Gaya untuk tombol tutup */
 .close {
   display: inline-block;
-  padding: 0.8rem 1.5rem;
+  padding: 1rem 2rem;
   color: #fff;
   font-size: 2rem;
   font-weight: 400;
@@ -233,7 +233,7 @@ body {
 }
 
 .hero .content a {
-  font-size: 1.5em;
+  font-size: 2em;
   color: var(--bg);
   text-shadow: 1px 1px 3px rgba(58, 79, 71, 0.8);
   font-weight: 600;
@@ -1067,7 +1067,7 @@ body {
 }
 .doa .content h4 {
   font-size: 1.5em;
-  color: var(--bg);
+  color: rgba(250, 248, 255, 1);
   text-transform: uppercase;
   margin-top: 3rem;
   font-weight: 600;
